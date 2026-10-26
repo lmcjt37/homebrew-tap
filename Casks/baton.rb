@@ -1,10 +1,10 @@
 cask "baton" do
-  version "1.5.0"
-  sha256 "4c6d235964eec478559fa924e711814a682d82de2f3cada0d55e22fe6942de86"
+  version "2.0.0"
+  sha256 "28890d7f1c3b29a11e4a943cb0df986a6c0ae76edcd6071a17766baf96ce341a"
 
   url "https://github.com/lmcjt37/baton-releases/releases/download/v#{version}/Baton-#{version}-universal.dmg"
   name "Baton"
-  desc "Run Maestro E2E flows for React Native apps across git worktrees"
+  desc "Run Maestro or Detox E2E tests for React Native apps across git worktrees"
   homepage "https://lmcjt37.github.io/baton-releases/"
 
   livecheck do
