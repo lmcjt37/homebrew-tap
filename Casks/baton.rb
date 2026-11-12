@@ -1,6 +1,6 @@
 cask "baton" do
-  version "2.3.0"
-  sha256 "fecced0b934426be8ab74a203ea40d212731d4b0520c2005e707ac0b26ae4416"
+  version "2.4.0"
+  sha256 "ac4d4c3efb2eef023f22304846d2c9a2f8c15d39ae28415f775727cea42e2b29"
 
   url "https://github.com/lmcjt37/baton-releases/releases/download/v#{version}/Baton-#{version}-universal.dmg"
   name "Baton"
